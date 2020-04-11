@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 npm install
 ```
 3) You need to install MongoDB database and also start the server of MongoDB
-4) Run the frontend server and backend server 
+4) Run the server 
 ```
 npm run start:server
 ```
